@@ -1,5 +1,5 @@
 {
-    "name": "skmachine/instagram-php-scraper",
+    "name": "mutogen/instagram-php-scraper",
     "description": "Simple Instagram PHP scraper and media proxy.",
     "type": "library",
     "require": {
